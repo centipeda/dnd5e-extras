@@ -25,6 +25,33 @@
   ],
   "packs": [
     {
+      "name": "classes-extra",
+      "label": "Classes (Extra)",
+      "system": "dnd5e",
+      "path": "packs/classes-extra.db",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "subclasses-extra",
+      "label": "Subclasses (Extra)",
+      "system": "dnd5e",
+      "path": "packs/subclasses-extra.db",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "classfeatures-extra",
+      "label": "Class Features (Extra)",
+      "system": "dnd5e",
+      "path": "packs/classfeatures-extra.db",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
       "name": "heroes",
       "label": "Starter Heroes",
       "system": "dnd5e",
