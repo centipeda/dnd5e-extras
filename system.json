@@ -97,6 +97,15 @@
       "flags": {}
     },
     {
+      "name": "spells-extra",
+      "label": "Spells (Extra)",
+      "system": "dnd5e",
+      "path": "packs/spells-extra.db",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
       "name": "backgrounds",
       "label": "Backgrounds (SRD)",
       "system": "dnd5e",
